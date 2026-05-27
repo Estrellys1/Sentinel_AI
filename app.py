@@ -1,4 +1,4 @@
-  import streamlit as st
+import streamlit as st
 
 # 1. CONFIGURACIÓN DE LA PÁGINA (Comando nativo inicial obligatorio)
 st.set_page_config(
