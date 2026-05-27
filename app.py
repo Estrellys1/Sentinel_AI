@@ -2,7 +2,7 @@ import streamlit as st
 
 # 1. CONFIGURACIÓN DE LA PÁGINA (Comando nativo inicial obligatorio)
 st.set_page_config(
-    page_title="BioPath-Sentinel AI"
+    page_title="BioPath-Sentinel AI",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
